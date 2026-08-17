@@ -1,1 +1,1 @@
-File locations are referenced when the extension is refreshed in Brave browser. Update the extension loading if relocating files. 
+A simple browser extension to reformat Oracle's docs.
